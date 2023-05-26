@@ -11,7 +11,7 @@ The app will scan the IP addres specified by the user as a program argument. It 
 ## Frameworks & Libraries:
 - rand - https://crates.io/crates/rand | https://docs.rs/rand/0.8.5/rand/
 
-## Impelemtantion:
+## Implementation:
 First, we create a utility **struct**: *IpSnifferArguments*:
 ```rust
 struct IpSnifferArguments {
